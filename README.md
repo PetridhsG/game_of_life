@@ -7,4 +7,4 @@ in the same directory with game_of_life.py .
 To run the script use ```python game_of_life.py``` in the same directory with game_of_life.py .
 
 This script contains unicode characters encoded in utf-8 so the IDE or terminal
-you are using must encode in utf-8
+you are using must encode in utf-8 .
