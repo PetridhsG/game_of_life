@@ -1,4 +1,4 @@
-# game_of_life
+# Game Of Life
 A simple python script to implement the logic of [the game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 To run the doctests use: ```python -m doctest game_of_life.py``` 
